@@ -1,0 +1,6 @@
+name: Bedwars
+author: Alexandre
+version: 1.0.0
+main: com.alexandre.bedwars.Main
+
+depend: [PluginCore]
